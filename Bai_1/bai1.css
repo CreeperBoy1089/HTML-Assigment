@@ -1,0 +1,42 @@
+.row_attribute1 {
+    background-color: lightgray;
+}
+
+.row_attribute1:hover {
+    background-color: aliceblue;
+}
+
+.row_attribute2:hover {
+    background-color: lightblue;
+}
+
+.row_attribute3:hover {
+    background-color: lightyellow;
+}
+
+.row_attribute4:hover {
+    background-color: lightgreen;
+}
+
+.format_table {
+    border-collapse: collapse;
+    margin: auto;
+    width: 45%;
+}
+h3{
+    font-size: 25px;
+    color: blue;
+
+}
+
+.img_format_center{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+tr{
+    font-size: 14px;
+}
