@@ -1,0 +1,133 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    gap: 20px
+}
+
+.comment{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.subcontainer1{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.subcontainer2{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.feature{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.frame{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.framecontainer{
+   display: flex;
+   flex-direction: row;
+   gap: 12px;
+}
+
+.information{
+    display: flex;
+    flex-direction: column;
+    gap:3px;
+}
+
+.imgframe1{
+    height: 200px;
+    width: 200px;
+    background-image: url(https://nuocmamlegia.com/wp-content/uploads/2019/09/bun-dau-mam-tom-le-gia.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: local;
+    background-size: cover;
+}
+
+.imgframe2{
+    height: 200px;
+    width: 200px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToiilMNQxxuw_FblNHYForhOn57tAByXCyrnYDb6TRh1RVjaNxHOFTR3s&s=10);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: local;
+    background-size: cover;
+}
+
+.imgframe3{
+    height: 200px;
+    width: 200px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2GUx4uR1KW2eVf4UVx83BjtDfi4sFxXOGveHN-8W5_rJ_JehLdNvRBV2E&s=10);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: local;
+    background-size: cover;
+}
+
+.imgframe4{
+    height: 200px;
+    width: 200px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/b0/C%C6%A1m_T%E1%BA%A5m%2C_Da_Nang%2C_Vietnam.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: local;
+    background-size: cover;
+}
+
+.avatar1{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtR8oBHfjIPkYrsbD2IBqdYijJMn0n4Eh-S2Sc3gtwPkh2tWHadwmz70zk&s=10);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: local;
+    background-size: cover;
+}
+
+.avatar2{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Thomas_C._Lea_III_-_That_Two-Thousand_Yard_Stare_-_Original.jpg/250px-Thomas_C._Lea_III_-_That_Two-Thousand_Yard_Stare_-_Original.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: local;
+    background-size: cover;
+}
+
+.avatar3{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-image: url(https://cdn.images.express.co.uk/img/dynamic/80/590x/secondary/stalin-cat-230700.jpg?r=1686998680160);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: local;
+    background-size: cover;
+}
+
+.avatar4{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-image: url(https://image.voh.com.vn/voh/image/2026/08/23/viet-nam-3-232938.jpg?t=o&w=1024&q=85);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: local;
+    background-size: cover;
+}
+

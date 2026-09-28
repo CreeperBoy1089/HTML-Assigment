@@ -1,0 +1,169 @@
+h4, p{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+
+}
+
+p{
+    font-size: 24px !important; 
+    color: orange
+}
+
+.top-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.search-bar{
+    display: flex;
+    flex-direction: row;
+}
+
+input{
+    width: 200px;
+}
+
+.logo{
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navigation{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    gap:100px
+}
+
+.subnavigation{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 50%;
+    color: white;
+    
+}
+
+.dropdown-department{
+    background-color: gray;
+    display: flex;
+    justify-content: space-between;
+    border: none;
+}
+
+.dropdown-select{
+    background-color: gray;
+    border: none;
+    color: white
+}
+
+.fa-bars{
+    color: white;
+}
+
+.subnavigation, .dropdown-department option{
+    margin: 0;
+    padding: 30px, 100px;
+}
+
+.region{
+    padding: 2px;
+    border: 1px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    justify-content: space-between;
+}
+
+.subcontainer{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.head-footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: gray;
+    color: white;
+}
+
+.main-footer{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.imgframe1{
+    background-image: url(https://bizweb.dktcdn.net/100/366/703/products/plm10-5.jpg?v=1730446464387);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    width: 400px;
+    height: 600px;
+    
+}
+
+.imgframe2{
+    background-image: url(https://pos.nvncdn.com/a36e05-151378/ps/20231026_UhZjaE4TJF.jpeg?v=1698305693);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    width: 400px;
+    height: 600px;
+    
+}
+
+.imgframe3{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqa_jxMi71B-gtgACs66XExkPZRZhxdYQFMOXXwPa9Cs4jtKbANxxbfB_D&s=10);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    width: 400px;
+    height: 600px;
+    
+}
+
+.imgframe4{
+    background-image: url(https://product.hstatic.net/1000402464/product/jk24fh02t-pa_white__1__661a994d05a047bba7982009c131cfa8_master.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    width: 400px;
+    height: 600px;
+    
+}
+
+.imgframe5{
+    background-image: url(https://cdn.hstatic.net/products/200000870593/dh1417_d1r_20_f2a4b130ef9e4a3a88990f30dd6c958d.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    width: 400px;
+    height: 600px;
+    
+}
+
+.imgframe6{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_0-VuGyKM22gI5shOJKNq77TxQbgL-TxJmN5UTHVdSQ&s=10);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: local;
+    background-size: cover;
+    width: 400px;
+    height: 600px;
+    
+}
+
